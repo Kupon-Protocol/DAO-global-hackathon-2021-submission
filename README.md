@@ -5,7 +5,7 @@ Kupon Protocol
 
 ### Submission links
 
-- Website: https://kupon-protocol.netlify.app/
+- Website: https://kupon-protocol.netlify.app/ (please use Mumbai testnet and get testnet MATIC tokens from an [official faucet here](https://faucet.polygon.technology/))
 - The concept: https://github.com/Kupon-Protocol/kupon-protocol-concept#readme 
 - Smart contracts (GitHub): https://github.com/Kupon-Protocol/kupon-protocol-contracts 
 - Frontend code (GitHub): https://github.com/Kupon-Protocol/frontend 
